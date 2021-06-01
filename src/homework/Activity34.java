@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Activity34 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int socuoi= scanner.nextInt();
+        float socuoi= scanner.nextInt();
         int sum = 0 ;
         float avg ;
         for (int i = 1 ; i <= socuoi ; i=i+1 ){
